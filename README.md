@@ -1,6 +1,6 @@
 ### Salut, I'm Rehannah 👋
 
-I'm currently a Computer Science student at UWI, St. Augustine.\s\s
+I'm currently a Computer Science student at UWI, St. Augustine.  
 Right now, I'm interested in exploring a lot of different tech areas, such as software development, websites, games and apps.
 
 - 💬 I've had the most experience in web development so far.

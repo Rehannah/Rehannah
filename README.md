@@ -9,5 +9,5 @@ Some interests that I'm exploring at the moment include various topics in CS, so
 - 💬 I’m working on building my [Portfolio](Rehannah.github.io)
 - 🤔 I always appreciate advice from persons in tech or feedback in general.
 
-[![Rehannah's GitHub stats](https://github-readme-stats.vercel.app/api?username=rehannah&count_private=true&show_icons=true&hide=contribs,issues,stars&theme=github_dark)](https://github.com/Rehannah) <br/>
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rehannah&hide=Pascal&layout=compact&theme=algolia)](https://github.com/Rehannah) <br/>
+[![Rehannah's GitHub stats](https://github-readme-stats.vercel.app/api?username=rehannah&count_private=true&show_icons=true&hide=contribs,issues,stars&theme=github_dark)](https://github.com/Rehannah) <br/>

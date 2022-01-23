@@ -6,7 +6,8 @@ At the moment, I'm exploring different tech areas, such as software, web, game a
 - 💻 I'm presently more comfortable with the C++ programming language, with some experience in web development.
 - 📚 I'm currently studying OOP and Software Engineering principles.
 - 📧 Reach out to me on [LinkedIn](https://www.linkedin.com/in/rehannahb/)
-- 💬 I’m working on building my [Github portfolio](https://github.com/Rehannah.github.io)
+- 💬 I’m working on building my [Portfolio](Rehannah.github.io)
 - 🤔 I always appreciate advice from persons in tech or feedback in general.
 
-[![Rehannah's Github stats](https://github-readme-stats.vercel.app/api?username=rehannah&count_private=true&show_icons=true&hide=contribs,issues,stars&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Rehannah's GitHub stats](https://github-readme-stats.vercel.app/api?username=rehannah&count_private=true&show_icons=true&hide=contribs,issues,stars&theme=github_dark)](https://github.com/Rehannah)
+[Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rehannah&hide=Pascal&layout=compact&theme=algolia)

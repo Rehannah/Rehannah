@@ -6,8 +6,12 @@ Some interests that I'm exploring at the moment include various topics in CS, so
 - 💻 I'm presently more comfortable with the C++ programming language, with some experience in web development.
 - 📚 I'm currently studying OOP and Software Engineering principles.
 - 📧 Reach out to me on [LinkedIn](https://www.linkedin.com/in/rehannahb/)
-- 💬 I’m working on building my [Portfolio](Rehannah.github.io)
-- 🤔 I always appreciate advice from persons in tech or feedback in general.
+- 💬 I’m working on building my [Portfolio](https://rehannah.github.io/)
+<br/>
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rehannah&hide=Pascal&layout=compact&theme=github_dark)](https://github.com/Rehannah) <br/>
-[![Rehannah's GitHub stats](https://github-readme-stats.vercel.app/api?username=rehannah&count_private=true&show_icons=true&hide=contribs,issues,stars&theme=github_dark)](https://github.com/Rehannah) <br/>
+<a href="https://rehannah.github.io/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehannah&hide=Pascal&layout=compact&theme=github_dark" />
+</a>
+<a href="https://github.com/Rehannah">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rehannah&count_private=true&show_icons=true&hide=contribs,issues,stars&theme=github_dark" />
+</a>

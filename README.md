@@ -10,4 +10,4 @@ At the moment, I'm exploring different tech areas, such as software, web, game a
 - 🤔 I always appreciate advice from persons in tech or feedback in general.
 
 [![Rehannah's GitHub stats](https://github-readme-stats.vercel.app/api?username=rehannah&count_private=true&show_icons=true&hide=contribs,issues,stars&theme=github_dark)](https://github.com/Rehannah)
-[Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rehannah&hide=Pascal&layout=compact&theme=algolia)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rehannah&hide=Pascal&layout=compact&theme=algolia)](https://github.com/Rehannah)

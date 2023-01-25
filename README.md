@@ -10,9 +10,9 @@ Some interests that I'm exploring at the moment include various topics in CS, so
 <br/>
 
 <a href="https://github.com/Rehannah">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rehannah&count_private=true&show_icons=true&hide=stars&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rehannah&count_private=true&show_icons=true&hide=stars" />
 </a>
 <a href="https://rehannah.github.io/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehannah&hide=Pascal&layout=compact&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehannah&hide=Pascal&layout=compact" />
 </a>
 

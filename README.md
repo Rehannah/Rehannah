@@ -1,11 +1,9 @@
 ### Salut, I'm Rehannah 👋
 
-I'm currently a Computer Science (Special) student at the University of the West Indies, St. Augustine. <br/>
-Some interests that I'm exploring at the moment include various topics in CS, software, web, game and app development.
+I'm currently a Junior in tech. <br/>
+Some interests that I'm exploring at the moment include various topics in CS, cybersecurity, web, game and app development.
 
-- 💻 I'm presently more comfortable with the C++ programming language, with some experience in web development.
-- 📚 I'm currently studying OOP in Java and Software Engineering principles.
-- 📧 Reach out to me on [LinkedIn](https://www.linkedin.com/in/rehannahb/)
+- 📧 Reach out to me on [LinkedIn](https://www.linkedin.com/in/rehannahb/) or [Instagram](https://www.instagram.com/rehannah.dev)
 - 💬 I’m working on building my [Portfolio](https://rehannah.github.io/)
 <br/>
 

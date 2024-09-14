@@ -1,7 +1,7 @@
 ### Salut, I'm Rehannah 👋
 
-I'm currently a Junior in tech. <br/>
-Some interests that I'm exploring at the moment include various topics in CS, cybersecurity, web, game and app development.
+I'm currently a junior in the tech space. <br/>
+I'm interested in exploring software, game and app development, DevOps and best practices in the industry.
 
 - 📧 Reach out to me on [LinkedIn](https://www.linkedin.com/in/rehannahb/) or [Instagram](https://www.instagram.com/rehannah.dev)
 - 💬 I’m working on building my [Portfolio](https://rehannah.github.io/)
